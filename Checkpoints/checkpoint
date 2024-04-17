@@ -1,0 +1,2 @@
+model_checkpoint_path: "autoregressive_new"
+all_model_checkpoint_paths: "autoregressive_new"
